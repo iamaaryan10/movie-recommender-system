@@ -5,7 +5,7 @@ A content-based movie recommender system that suggests similar movies based on u
 ---
 
 ## 🚀 Live Demo
-👉 [https://your-app-link.streamlit.app](https://movie-recommender-system-2d83jermov8rcn2tixvpun.streamlit.app/)
+👉 [https://movie-recommender-system.app](https://movie-recommender-system-2d83jermov8rcn2tixvpun.streamlit.app/)
 
 ---
 
