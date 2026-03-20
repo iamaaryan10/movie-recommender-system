@@ -91,17 +91,6 @@ A content-based movie recommender system that suggests similar movies based on u
 
 ---
 
-## 📂 Project Structure
-movie-recommender-system/
-│
-├── app.py
-├── movies.pkl
-├── movies_dict.pkl
-├── requirements.txt
-└── .gitignore
-
----
-
 ## 🔑 API Usage
 This project uses TMDB API to fetch movie posters.
 
